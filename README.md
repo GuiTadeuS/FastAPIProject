@@ -1,9 +1,11 @@
-Project dependencies:
+- Project dependencies:
+
     **pyenv:** to install Python version
     **poetry:** for project and library management
     **pipx:** to install and run Python applications
 
-Dev dependencies:
+- Dev dependencies:
+
     **taskipy:** to create custom commands
     **ruff:** as a linter
     **blue:** to format code
@@ -11,5 +13,6 @@ Dev dependencies:
     **pytest:** write and execute tests
 
 
-General dependencies:
+- General dependencies:
+
     **httpx:** provide sync and async APIs (necessary to test FastAPI)
